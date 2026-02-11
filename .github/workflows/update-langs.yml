@@ -10,7 +10,7 @@ on:
     #        │ │  │   │ │
     #        │ │  │   │ │
     #        * *  *   * *
-    - cron: "0 0 */30 * *"
+    - cron: "39 15 * * *"
 
 permissions:
   actions: read
